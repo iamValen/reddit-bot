@@ -31,8 +31,25 @@ It uses:
 ## Setup
 
 - Clone repository
-- '''npm install'''
-- Insert a .env file with things
+    git clone https://github.com/iamValen/reddit-bot.git
+    cd reddit-ai-bot
+
+- Instal dependencies
+    npm install
+
+- Insert a .env file with this credentials:
+    REDDIT_CLIENT_ID=your_client_id
+    REDDIT_CLIENT_SECRET=your_client_secret
+    REDDIT_USERNAME=your_reddit_username
+    REDDIT_PASSWORD=your_reddit_password
+
+- Make sure you are logged in with git 
+    git config --global user.name "Your Name"
+    git config --global user.email "you@example.com"
+    
+    or
+    
+    export TOKEN=ghp_yourGitHubTokenHere
 
 ---
 
