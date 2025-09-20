@@ -49,7 +49,7 @@ It uses:
     
     or
     
-    export TOKEN=ghp_yourGitHubTokenHere
+    export TOKEN=ghp_<your_git_token>
 
 ---
 
